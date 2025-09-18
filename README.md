@@ -17,5 +17,6 @@ Build a Decision Tree Classifier to predict whether a customer will purchase a p
 - Interpreting accuracy, confusion matrix, and classification report
 
 "Files in this Repository"
-- 
-- `Bank_DecisionTree.ipynb` → Jupyter Notebook implementation
+- `bank.csv` -> Raw Data
+- `Bank_DecisionTree.ipynb` -> Jupyter Notebook implementation
+- ``
